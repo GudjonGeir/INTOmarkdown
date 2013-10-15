@@ -9,8 +9,8 @@ Guðjón: Dual bootaði með windows 8, Setti upp Ubuntu 12.04. Notaði [þessar
 
 Sólveig: þurfti að fá að nota tölvu kærasta síns sem er með linux fyrir vegna þess að það var of lítið pláss á harða disknum hennar, þess vegna er það sem hún gerði skráð á Vigni Guðmundsson á github.
 
-![Guðjóns tölva](/img/gg.jpg)
-![Sólveigar tölva](/img/ssg.jpg)
+![Guðjóns tölva](https://raw.github.com/GudjonGeir/INTOmarkdown/master/img/gg.JPG)
+![Sólveigar tölva](https://raw.github.com/GudjonGeir/INTOmarkdown/master/img/ssg.JPG)
 
 ## 2. Uppsetning á vim && git
 
